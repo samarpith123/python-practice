@@ -1,0 +1,3 @@
+s='calicut'
+v=s[-1:4]
+print(v)
