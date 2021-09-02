@@ -1,3 +1,2 @@
-asds
-sjdj
-djwjjw
+x=int(input("welcome to world"))
+print(x)

@@ -12,6 +12,8 @@ c=test()
 c.height=65
 c.weight=72
 print(c.__dict__)
+del c.height
+print(c.__dict__)
 
 
 
