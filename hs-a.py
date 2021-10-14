@@ -21,4 +21,3 @@ class sample2(sample):
 carobject=car()
 object=sample2('for learning',carobject)
 object.display()
-rpw
